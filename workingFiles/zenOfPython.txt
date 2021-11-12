@@ -1,0 +1,4 @@
+If you have a choice between a simple and a complex solution, and both work, use the simple solution. Your code will be easier to maintain, and it will be easier for you and others to build on thar code later on.
+Se você puder escolher entre uma solução simples e uma complexa, e ambas funcionarem, use a solução simples. Seu código será mais fácil de manter, e será mais fácil para você e outras pessoas criarem nele mais tarde.
+Se voce puder escolher entre uma solucao simples e uma complexa, e ambas funcionarem, use a solução simples. Seu codigo será mais fácil de manter, e sera mais facil para você e outras pessoas criarem nele mais tarde.
+Se você puder escolher entre uma solução simples e uma complexa, e ambas funcionarem, use a solução simples. Seu código será mais fácil de manter, e será mais fácil para você e outras pessoas criarem nele mais tarde.
